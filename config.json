@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerfarse",
+        "uuid": 942312,
+        "checksum": "zzw3v5"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
